@@ -1,5 +1,5 @@
 package Generics;
-
+import java.util.function
 import java.util.Objects;
 
 public class Hash<C,V> {
